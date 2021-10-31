@@ -5,4 +5,4 @@
 >>학번: 20180398  
 _취미: 축구, 영화, 산책_  
 + I'm 24 years old  
-+ I'm from Daegu  
+  + I'm from Daegu  
